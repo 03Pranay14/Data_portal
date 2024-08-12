@@ -1,4 +1,0 @@
-Pandas
-Plotly
-Streamlit
-Openpyxl
